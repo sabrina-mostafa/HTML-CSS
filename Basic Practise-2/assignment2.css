@@ -1,0 +1,23 @@
+.title
+{
+	color: rgba(241, 50, 73, 1) ; /* rgb clr with transparency */
+	font-size: 40px ;
+	font-weight: 900;
+	font-family: helvetica ;
+	/*background-color: white;*/
+
+	border-bottom: 5px solid green ;
+	padding: 4px 10px 5px 50px ;	/*top right bottom left*/
+}
+
+.bg-image
+{
+	outline: 2px solid red ;
+	padding: 500px 200px 200px 500px ;
+	background-color: black ;
+	background-image: url('mountain-7260827_960_720.webp');
+	background-position: top-right ; 
+	/*background-size: cover;*/
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+}
