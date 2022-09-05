@@ -1,0 +1,36 @@
+body header{
+	background: grey;
+	padding: 0px 50px 70px 1px;
+}
+
+body{
+	background-color: pink;
+}
+
+.img_logo{
+	float: left;
+}
+
+.nav1{
+	float: right;
+}
+
+.nav1 ul li{
+	display: inline-block;
+}
+
+.nav1 ul li a{
+	padding: 30px 20px 30px 20px ;
+	text-decoration: none;
+	color: #303030;
+}
+.nav1 ul li a:hover{
+	background-color: pink ;
+	padding: 10px 15px 10px 15px ;
+}
+.nav1 ul li a.active{
+	background-color: pink ;
+	padding: 10px 15px 10px 15px ;
+}
+
+
